@@ -1,6 +1,6 @@
 # Read Me 
 
-Obsidian-Vault for AWS Certified Developer – Associate Notes!
+Obsidian-Vault for Masters of Information Systems
 
 Enjoy and have fun, always. 
 
