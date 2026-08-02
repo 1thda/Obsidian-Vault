@@ -1,0 +1,1 @@
+**Social Informatics**: Identifies a body of research that examines the social aspects of computerization 
