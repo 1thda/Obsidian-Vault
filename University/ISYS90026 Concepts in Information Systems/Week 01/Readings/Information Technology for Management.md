@@ -6,7 +6,7 @@ Four major points constitute the cornerstone of Amazon's Strategy
 - Regularly entering into new niches 
 - Strengthening the Amazon Ecosystem 
 - Achieving an uncompromised focus on customer service 
-- Emphasizing Amazon Leadership values
+- Emphasising Amazon Leadership values
 
 Ongoing communications, collaboration and shared understanding of technology's role in achieving business success. 
 
